@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**TooMuchCereal/TooMuchCereal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Wasup, Im Corez_Dev
 
-Here are some ideas to get you started:
+Im A Roblox Developer And Python Intermediate Programmer. I've Been Around The Programming Field More Than 2 Years Now. I Consider Myself Pretty Decent And Helpful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As Of Now I've Recently Learnt GIT Source Code Management.
+
+## Languages 
+
+Various Languages I've Used, Includng
+
+* Lua ( General )
+* C / C++ ( Engine Development )
+* Java ( UI )
+* Rust ( Testing )
+* C# ( Game Development )
+
+## Some Pretty Neat Stuff I Made
